@@ -6,8 +6,9 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
+      border: '#e2e8f0', // Esto crea la clase 'border-border' usando slate-200
         'ee-slate': {
+          50: '#f8fafc',
           50: '#f8fafc',
           100: '#f1f5f9',
           200: '#e2e8f0',
